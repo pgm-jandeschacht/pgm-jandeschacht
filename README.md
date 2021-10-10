@@ -4,7 +4,7 @@
 
 ## About me
 
-From an early age I was interested in technology and science. In addition to being a team player, I am driven, passionate and eager to learn. Because I have already tried different courses, I have a background in html, css, javascript, design and communication.
+From an early age I was interested in technology and science. In addition to being a team player, I am driven, passionate and eager to learn. Because I have already tried different courses, I also have a background in design and communication.
 
 ## Contact
 
