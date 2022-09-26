@@ -30,7 +30,7 @@ I'm a front-end developer from Ostend, Belgium. From an early age I was interest
 ### Office:
   ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ### Languages:
-  [Dutch](https://img.shields.io/badge/-Dutch-EF3340?&style=for-the-badge), [English](https://img.shields.io/badge/-English-012169?&style=for-the-badge), [French](https://img.shields.io/badge/-French-FFFFFF?&style=for-the-badge)
+  ![Dutch](https://img.shields.io/badge/-Dutch-EF3340?&style=for-the-badge), ![English](https://img.shields.io/badge/-English-012169?&style=for-the-badge), ![French](https://img.shields.io/badge/-French-FFFFFF?&style=for-the-badge)
 
 ## Experience
 
